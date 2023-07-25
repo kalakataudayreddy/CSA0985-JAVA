@@ -8,3 +8,5 @@ class first
         System.out.println(a+"+"+b+"="+sum);
     }
 }
+output:
+10+20=30
