@@ -10,3 +10,6 @@ public class EvenOdd {
             System.out.println(num + " is odd");
     }
 }
+output:
+Enter a number: 34
+34 is Even
