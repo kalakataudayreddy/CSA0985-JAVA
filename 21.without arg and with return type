@@ -1,0 +1,16 @@
+class example
+{
+    int display()
+    {
+        int a=10,b=20,sum;
+        sum=a+b;
+        return sum;
+    }
+    public static void main(String[]args)
+    {
+        example s=new example();
+        int result;
+        result=s.display();
+        System.out.println(result);
+    }
+}
